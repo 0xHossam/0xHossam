@@ -1,22 +1,10 @@
 ## 0xHossam | Hossam Ehab
 
-I focus on red teaming, malware research, and adversary simulation, conducting internal and external red team engagements and internal network pen-test across on-prem/cloud envs. I develop offensive security tools also analyzing threat actor tactics, and provide actionable mitigation strategies. I am dedicated to growing as a skilled red team operator!
+I focus on red teaming, malware research, and adversary simulation, conducting internal and external red team engagements and internal network pen-test across on-prem/cloud envs. I develop offensive security tools (OST) also analyzing threat actor tactics, and provide actionable mitigation strategies. I am dedicated to growing as a skilled red team operator :)
 
-Blogging -> https://medium.com/@0xHossam
-Codes and projects -> https://github.com/0xHossam
-Follow me at X :) ->https://x.com/0xHossam
+- Check my booring blogs -> https://medium.com/@0xHossam
+- Codes and projects -> https://github.com/0xHossam
+- Follow me on X ->https://x.com/0xHossam
+- ⚡ Fun fact: age is just a number - do what you love, and keep learning
 
-<!--
-**0xHossam/0xHossam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile Views](https://u8views.com/api/v1/github/profiles/82971998/views/day-week-month-total-count.svg)
