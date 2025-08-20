@@ -1,4 +1,10 @@
-## Hi there 👋
+## 0xHossam | Hossam Ehab
+
+I focus on red teaming, malware research, and adversary simulation, conducting internal and external red team engagements and internal network pen-test across on-prem/cloud envs. I develop offensive security tools also analyzing threat actor tactics, and provide actionable mitigation strategies. I am dedicated to growing as a skilled red team operator!
+
+Blogging -> https://medium.com/@0xHossam
+Codes and projects -> https://github.com/0xHossam
+Follow me at X :) ->https://x.com/0xHossam
 
 <!--
 **0xHossam/0xHossam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
