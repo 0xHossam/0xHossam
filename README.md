@@ -4,7 +4,6 @@ I focus on red teaming, malware research, and adversary simulation, conducting i
 
 - Check my booring blogs -> https://medium.com/@0xHossam
 - Check my linkedin -> https://www.linkedin.com/in/0xHossam/
-- Codes and projects -> https://github.com/0xHossam
 - Follow me on X ->https://x.com/0xHossam
 - ⚡ Fun fact: age is just a number - do what you love, and keep learning
 
