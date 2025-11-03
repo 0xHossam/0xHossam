@@ -1,10 +1,11 @@
 ## 0xHossam | Hossam Ehab
 
-I focus on red teaming, malware research, and adversary simulation, conducting internal and external red team engagements and internal network pen-test across on-prem/cloud envs. I develop offensive security tools (OST) also analyzing threat actor tactics, and provide actionable mitigation strategies. I love breaching enterprises networks :-) and dedicated to growing as a skilled red teamer :)
+I am passionate about red teaming, malware research, adversary simulation and windows security research. My expertise spans internal and external red team operations, active directory & network security, and breaching enterprise environments by architecting modern attack paths. I’m good at writing codes with C/C++, Python, and Assembly. I develop innovative tools and techniques to enhance offensive security capabilities (OST) and dicated to growing as a skilled red teamer :)
 
-- Check my booring blogs -> https://medium.com/@0xHossam
-- Check my linkedin -> https://www.linkedin.com/in/0xHossam/
-- Follow me on X ->https://x.com/0xHossam
+Quick links:
+- Git: https://github.com/0xHossam
+- Blog: https://medium.com/@0xHossam
+- X: https://x.com/0xHossam
 - ⚡ Fun fact: age is just a number - do what you love, and keep learning
 
 ![Profile Views](https://u8views.com/api/v1/github/profiles/82971998/views/day-week-month-total-count.svg)
