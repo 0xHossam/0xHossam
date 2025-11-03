@@ -6,6 +6,5 @@ Quick links:
 - LinkedIn: https://linkedin.com/in/0xhossam
 - Blog: https://medium.com/@0xHossam
 - X: https://x.com/0xHossam
-- ⚡ Fun fact: age is just a number - do what you love, and keep learning
 
 ![Profile Views](https://u8views.com/api/v1/github/profiles/82971998/views/day-week-month-total-count.svg)
